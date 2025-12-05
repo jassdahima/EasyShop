@@ -11,7 +11,7 @@ Easy Shop is a modern e-commerce application for Android, built with Jetpack Com
 - **Dynamic Data**: All user data, cart contents, and order information are stored and synced with Cloud Firestore, providing a persistent and real-time experience.
 
 - ## Screenshots
- <img src= "https://github.com/jassdahima/EasyShop/blob/main/screenshots/easyshop1.png" width = "250" /> <img src= "https://github.com/jassdahima/EasyShop/blob/main/screenshots/easyshop2.png" width = "250" />
+ <img src= "https://github.com/jassdahima/EasyShop/blob/main/screenshots/easyshop1.png" width = "250" /><img src= "https://github.com/jassdahima/EasyShop/blob/main/screenshots/easyshop2.png" width = "250" />
   
   <img src= "https://github.com/jassdahima/EasyShop/blob/main/screenshots/easyshop3.png" width = "250" /> <img src= "https://github.com/jassdahima/EasyShop/blob/main/screenshots/easyshop4.png" width = "250" />
  
